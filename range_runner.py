@@ -18,7 +18,7 @@ GPIO.setup(ECHO, GPIO.IN)
 
 
 # loop for measuring distance, this fires out a pulse and measures time to return, it then converts to an int to
-# remove decimals and- finally to a string to be sent to the led readout on the lower part of the rainbow hat
+# remove decimals and- finally to a string to be sent to the admin module
 def rangeget():
     # print "Distance Measurement In Progress"
 
