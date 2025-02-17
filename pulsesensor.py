@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # extended from https://github.com/WorldFamousElectronics/PulseSensor_Amped_Arduino
+# License: https://github.com/WorldFamousElectronics/PulseSensor_Amped_Arduino/blob/master/LICENSE
 
 # imports
 import threading
