@@ -1,3 +1,5 @@
+# from: https://github.com/ControlEverythingCommunity/BME280/blob/master/Python/BME280.py
+
 #!/usr/bin/env python
 # Distributed with a free-will license.
 # Use it any way you want, profit or free, provided it fits in the licenses of its associated works.
